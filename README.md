@@ -1,2 +1,3 @@
-# rust-turk-dili
-Rust Dili Türkçe Temeller
+# Rust Dili Türkçe Temeller
+
+Verilen örnekler sıfırdan anlatım içermeyebilir. Programlamaya giriş olaraktan değil, Rust diline temelden bakış olarak süreç tasarlanmıştır.
