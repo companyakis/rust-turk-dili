@@ -1,5 +1,5 @@
 fn main() {
-    let mut sayac: u16 = 0;
+    let mut sayac: u16 = 0; //u16 doğru bir seçim mi? (GÜNCELLEME GEREKİR mi?)
     
     loop {
         sayac += 5;
