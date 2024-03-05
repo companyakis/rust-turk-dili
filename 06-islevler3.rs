@@ -15,5 +15,5 @@ fn main() {
 
     //println!("{}", ben); //hata alırız! ben değişkeninin değeri yazi'ya taşındı
 
-    //clone() kullanmak istiyorum:)
+    //clone() kullanmak istiyorum:) => bir sonraki örnekte ödünçlük ile sorunu çözmeye çalışalım
 }
